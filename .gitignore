@@ -1,0 +1,47 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.workspace
+*.atsln
+*.atsuo
+Lab1/src/src/Debug/Makefile
+*.d
+*.mk
+*.eep
+*.lss
+*.map
+*.srec
+*.cproj
+Lab2/src/src/Debug/
+Lab2/schematics/Last Loaded lab2.pdsbak
+Lab2/schematics/Backup Of lab2.pdsbak
